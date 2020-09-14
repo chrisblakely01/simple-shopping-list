@@ -5,8 +5,6 @@ Start/final code for simple shopping list react project
 Run the starter code:
 
 ```
-- git clone git@github.com:chrisblakely01/simple-shopping-list.git
-
 - cd simple-shopping-list/starter
 
 - npm install
@@ -17,8 +15,6 @@ Run the starter code:
 Run the starter code:
 
 ```
-- git clone git@github.com:chrisblakely01/simple-shopping-list.git
-
 - cd simple-shopping-list/final
 
 - npm install
