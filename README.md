@@ -12,7 +12,7 @@ Run the starter code:
 - npm start
 ```
 
-Run the starter code:
+Run the final code:
 
 ```
 - cd simple-shopping-list/final
